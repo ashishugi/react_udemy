@@ -1,0 +1,5 @@
+useContext is used when we need to pass the props from parent to a specific child beloe
+
+parent => child A => child B => child C
+here if we need to pass the data from parent to child c  without passing to A and B
+then we can here use useContext();
